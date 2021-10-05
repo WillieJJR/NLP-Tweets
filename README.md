@@ -1,4 +1,4 @@
-# NLP-Trump-Tweets
+# NLP-Tweets
 The goal of this project is to analyze a subset of President Trump's tweets over the course of 2020 (July - November) to identify 3 things: 
 
 Part 1: Topic Modeling - I want to better understand the over-arching Topics of President Trumps tweets by understanding the Presidents word patterns
